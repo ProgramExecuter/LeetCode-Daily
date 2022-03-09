@@ -10,7 +10,7 @@ Hard    -  #FF2A2B
 | --------: | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 |   January | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  |
 |  February | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  |
-|     March | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ✅  | ✅  |
+|     March | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ✅  | ✅  | ✅  |
 |     April |
 |       May |
 |      June |
@@ -34,6 +34,9 @@ Hard    -  #FF2A2B
   </tr>
   <tr>
     <td>08</td> <td>Linked List Cycle</td> <td style="color: #00B8A3">Easy</td> <td>Linked List, Two Pointer</td>
+  </tr>
+  <tr>
+    <td>09</td> <td>Remove Duplicates From Sorted List II</td> <td style="color: #FFC01E">Medium</td> <td>Linked List</td>
   </tr>
 </table>
 
