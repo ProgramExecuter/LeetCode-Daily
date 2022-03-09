@@ -30,7 +30,7 @@
     <td>08</td> <td>Linked List Cycle</td> <td>🟢Easy</td> <td>Linked List, Two Pointer</td>
   </tr>
   <tr>
-    <td>09</td> <td>Remove Duplicates From Sorted List II</td> <td>🟠Medium> <td>Linked List</td>
+    <td>09</td> <td>Remove Duplicates From Sorted List II</td> <td>🟠Medium<td>Linked List</td>
   </tr>
 </table>
 
