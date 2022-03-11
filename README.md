@@ -30,7 +30,7 @@
     <td>08</td> <td>[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)</td> <td>🟢Easy</td> <td>Linked List, Two Pointer</td>
   </tr>
   <tr>
-    <td>09</td> <td>[Remove Duplicates From Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/)</td> <td>🟠Medium<td>Linked List</td>
+    <td>09</td> <td><a href="https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii">Remove Duplicates From Sorted List II</a></td> <td>🟠Medium<td>Linked List</td>
   </tr>
   <tr>
     <td>10</td> <td>[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)</td> <td>🟠Medium<td>Linked List, Maths</td>
