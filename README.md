@@ -27,7 +27,7 @@
   <tr>
     <td>07</td>
     <td>
-      <a href="https://leetcode.com/problems/merge-two-sorted-lists/" target="_blank">
+      <a href="https://leetcode.com/problems/merge-two-sorted-lists/">
         Merge Two Sorted Lists
       </a>
     </td>
@@ -38,7 +38,7 @@
   <tr>
     <td>08</td>
     <td>
-      <a href="https://leetcode.com/problems/linked-list-cycle" target="_blank">
+      <a href="https://leetcode.com/problems/linked-list-cycle">
         Linked List Cycle
       </a>
     </td> 
@@ -49,7 +49,7 @@
   <tr>
     <td>09</td>
     <td>
-      <a href="https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii" target="_blank">
+      <a href="https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii">
         Remove Duplicates From Sorted List II
       </a>
     </td>
@@ -60,7 +60,7 @@
   <tr>
     <td>10</td> 
     <td>
-      <a href="https://leetcode.com/problems/add-two-numbers" target="_blank">
+      <a href="https://leetcode.com/problems/add-two-numbers">
         Add Two Numbers
       </a>
     </td> 
@@ -71,7 +71,7 @@
   <tr>
     <td>11</td> 
     <td>
-      <a href="https://leetcode.com/problems/rotate-list" target="_blank">
+      <a href="https://leetcode.com/problems/rotate-list">
         Rotate List
       </a>
     </td> 
