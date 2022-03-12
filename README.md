@@ -78,6 +78,17 @@
     <td>🟠Medium</td>
     <td>Linked List, Two Pointer</td>
   </tr>
+
+  <tr>
+    <td>12</td> 
+    <td>
+      <a href="https://leetcode.com/problems/copy-list-with-random-pointer/">
+        Copy List With Random Pointer
+      </a>
+    </td> 
+    <td>🟠Medium</td>
+    <td>Linked List</td>
+  </tr>
 </table>
 
 </details>
