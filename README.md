@@ -4,7 +4,7 @@
 | --------: | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 |   January | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  |
 |  February | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  |
-|     March | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  |
+|     March | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  |
 |     April |
 |       May |
 |      June |
@@ -31,7 +31,7 @@
         Merge Two Sorted Lists
       </a>
     </td>
-    <td>🟢Easy</td>
+    <td>🟢EASY</td>
     <td>Linked List, Two Pointer</td>
   </tr>
   
@@ -42,7 +42,7 @@
         Linked List Cycle
       </a>
     </td> 
-    <td>🟢Easy</td> 
+    <td>🟢EASY</td> 
     <td>Linked List, Two Pointer</td>
   </tr>
   
@@ -53,7 +53,7 @@
         Remove Duplicates From Sorted List II
       </a>
     </td>
-    <td>🟠Medium</td>
+    <td>🟠MEDIUM</td>
     <td>Linked List</td>
   </tr>
 
@@ -64,7 +64,7 @@
         Add Two Numbers
       </a>
     </td> 
-    <td>🟠Medium</td>
+    <td>🟠MEDIUM</td>
     <td>Linked List, Maths</td>
   </tr>
 
@@ -75,7 +75,7 @@
         Rotate List
       </a>
     </td> 
-    <td>🟠Medium</td>
+    <td>🟠MEDIUM</td>
     <td>Linked List, Two Pointer</td>
   </tr>
 
@@ -86,8 +86,30 @@
         Copy List With Random Pointer
       </a>
     </td> 
-    <td>🟠Medium</td>
+    <td>🟠MEDIUM</td>
     <td>Linked List</td>
+  </tr>
+
+  <tr>
+    <td>13</td> 
+    <td>
+      <a href="https://leetcode.com/problems/valid-parentheses/">
+        Valid Parentheses
+      </a>
+    </td> 
+    <td>🟢EASY</td>
+    <td>String, Stack</td>
+  </tr>
+
+  <tr>
+    <td>14</td> 
+    <td>
+      <a href="https://leetcode.com/problems/simplify-path/">
+        Simplify Path
+      </a>
+    </td> 
+    <td>🟠MEDIUM</td>
+    <td>String, Stack</td>
   </tr>
 </table>
 
