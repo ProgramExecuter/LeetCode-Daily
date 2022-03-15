@@ -4,7 +4,7 @@
 | --------: | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 |   January | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  |
 |  February | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  |
-|     March | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  |
+|     March | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  |
 |     April |
 |       May |
 |      June |
@@ -106,6 +106,17 @@
     <td>
       <a href="https://leetcode.com/problems/simplify-path/">
         Simplify Path
+      </a>
+    </td> 
+    <td>🟠MEDIUM</td>
+    <td>String, Stack</td>
+  </tr>
+
+  <tr>
+    <td>15</td> 
+    <td>
+      <a href="https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/">
+        Minimum Remove To Make Valid Parentheses
       </a>
     </td> 
     <td>🟠MEDIUM</td>
