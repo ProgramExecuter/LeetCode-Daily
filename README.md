@@ -23,6 +23,72 @@
   <tr>
     <th>Date</th> <th>Name</th> <th>Difficulty</th> <th>Tags</th>
   </tr>
+  
+  <tr>
+    <td>02</td>
+    <td>
+      <a href="https://leetcode.com/problems/merge-two-sorted-lists/">
+        Merge Two Sorted Lists
+      </a>
+    </td>
+    <td>🟢EASY</td>
+    <td>Linked List, Two Pointer</td>
+  </tr>
+
+  <tr>
+    <td>02</td>
+    <td>
+      <a href="https://leetcode.com/problems/merge-two-sorted-lists/">
+        Merge Two Sorted Lists
+      </a>
+    </td>
+    <td>🟢EASY</td>
+    <td>Linked List, Two Pointer</td>
+  </tr>
+
+  <tr>
+    <td>03</td>
+    <td>
+      <a href="https://leetcode.com/problems/merge-two-sorted-lists/">
+        Merge Two Sorted Lists
+      </a>
+    </td>
+    <td>🟢EASY</td>
+    <td>Linked List, Two Pointer</td>
+  </tr>
+
+  <tr>
+    <td>04</td>
+    <td>
+      <a href="https://leetcode.com/problems/merge-two-sorted-lists/">
+        Merge Two Sorted Lists
+      </a>
+    </td>
+    <td>🟢EASY</td>
+    <td>Linked List, Two Pointer</td>
+  </tr>
+
+  <tr>
+    <td>05</td>
+    <td>
+      <a href="https://leetcode.com/problems/merge-two-sorted-lists/">
+        Merge Two Sorted Lists
+      </a>
+    </td>
+    <td>🟢EASY</td>
+    <td>Linked List, Two Pointer</td>
+  </tr>
+
+  <tr>
+    <td>06</td>
+    <td>
+      <a href="https://leetcode.com/problems/count-all-valid-pickup-and-delivery-options/">
+        Count All Valid Pickup And Delivery Options 
+      </a>
+    </td>
+    <td>🔴HARD</td>
+    <td>Maths, Dynamic-Programming, Combinatorics</td>
+  </tr>
 
   <tr>
     <td>07</td>
