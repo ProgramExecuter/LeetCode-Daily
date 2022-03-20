@@ -4,7 +4,7 @@
 | --------: | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 |   January | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  |
 |  February | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  |
-|     March | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  |
+|     March | ❌  | ❌  | ❌  | ❌  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  |
 |     April |
 |       May |
 |      June |
@@ -25,7 +25,7 @@
   </tr>
   
   <tr>
-    <td>02</td>
+    <td>01</td>
     <td>
       <a href="https://leetcode.com/problems/merge-two-sorted-lists/">
         Merge Two Sorted Lists
@@ -71,12 +71,12 @@
   <tr>
     <td>05</td>
     <td>
-      <a href="https://leetcode.com/problems/merge-two-sorted-lists/">
-        Merge Two Sorted Lists
+      <a href="https://leetcode.com/problems/delete-and-earn/">
+        Delete And Earn
       </a>
     </td>
-    <td>🟢EASY</td>
-    <td>Linked List, Two Pointer</td>
+    <td>🟠MEDIUM</td>
+    <td>Array, Dynamic-Programming, Hash-table</td>
   </tr>
 
   <tr>
