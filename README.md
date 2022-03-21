@@ -4,7 +4,7 @@
 | --------: | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 |   January | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  |
 |  February | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  |
-|     March | ❌  | ❌  | ❌  | ❌  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  |
+|     March | ❌  | ❌  | ❌  | ❌  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  |
 |     April |
 |       May |
 |      June |
@@ -22,50 +22,6 @@
 <table style="margin-left: 3rem">
   <tr>
     <th>Date</th> <th>Name</th> <th>Difficulty</th> <th>Tags</th>
-  </tr>
-  
-  <tr>
-    <td>01</td>
-    <td>
-      <a href="https://leetcode.com/problems/merge-two-sorted-lists/">
-        Merge Two Sorted Lists
-      </a>
-    </td>
-    <td>🟢EASY</td>
-    <td>Linked List, Two Pointer</td>
-  </tr>
-
-  <tr>
-    <td>02</td>
-    <td>
-      <a href="https://leetcode.com/problems/merge-two-sorted-lists/">
-        Merge Two Sorted Lists
-      </a>
-    </td>
-    <td>🟢EASY</td>
-    <td>Linked List, Two Pointer</td>
-  </tr>
-
-  <tr>
-    <td>03</td>
-    <td>
-      <a href="https://leetcode.com/problems/merge-two-sorted-lists/">
-        Merge Two Sorted Lists
-      </a>
-    </td>
-    <td>🟢EASY</td>
-    <td>Linked List, Two Pointer</td>
-  </tr>
-
-  <tr>
-    <td>04</td>
-    <td>
-      <a href="https://leetcode.com/problems/merge-two-sorted-lists/">
-        Merge Two Sorted Lists
-      </a>
-    </td>
-    <td>🟢EASY</td>
-    <td>Linked List, Two Pointer</td>
   </tr>
 
   <tr>
@@ -242,6 +198,17 @@
     </td> 
     <td>🟠MEDIUM</td>
     <td>Array, Greedy</td>
+  </tr>
+
+  <tr>
+    <td>21</td> 
+    <td>
+      <a href="https://leetcode.com/problems/partition-labels/">
+        Partition Labels
+      </a>
+    </td> 
+    <td>🟠MEDIUM</td>
+    <td>String, Hash-Table, Greedy</td>
   </tr>
 </table>
 
