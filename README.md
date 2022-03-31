@@ -17,13 +17,11 @@
 
 <br /><br />
 
-<details>  <summary>March 2022</summary>
-
+<details><summary>March 2022</summary>
 <table style="margin-left: 3rem">
   <tr>
     <th>Date</th> <th>Name</th> <th>Difficulty</th> <th>Tags</th>
   </tr>
-
   <tr>
     <td>05</td>
     <td>
@@ -34,7 +32,6 @@
     <td>🟠MEDIUM</td>
     <td>Array, Dynamic-Programming, Hash-table</td>
   </tr>
-
   <tr>
     <td>06</td>
     <td>
@@ -45,7 +42,6 @@
     <td>🔴HARD</td>
     <td>Maths, Dynamic-Programming, Combinatorics</td>
   </tr>
-
   <tr>
     <td>07</td>
     <td>
@@ -56,7 +52,6 @@
     <td>🟢EASY</td>
     <td>Linked List, Two Pointer</td>
   </tr>
-  
   <tr>
     <td>08</td>
     <td>
@@ -67,7 +62,6 @@
     <td>🟢EASY</td> 
     <td>Linked List, Two Pointer</td>
   </tr>
-  
   <tr>
     <td>09</td>
     <td>
@@ -78,7 +72,6 @@
     <td>🟠MEDIUM</td>
     <td>Linked List</td>
   </tr>
-
   <tr>
     <td>10</td> 
     <td>
@@ -89,7 +82,6 @@
     <td>🟠MEDIUM</td>
     <td>Linked List, Maths</td>
   </tr>
-
   <tr>
     <td>11</td> 
     <td>
@@ -100,7 +92,6 @@
     <td>🟠MEDIUM</td>
     <td>Linked List, Two Pointer</td>
   </tr>
-
   <tr>
     <td>12</td> 
     <td>
@@ -111,7 +102,6 @@
     <td>🟠MEDIUM</td>
     <td>Linked List</td>
   </tr>
-
   <tr>
     <td>13</td> 
     <td>
@@ -122,7 +112,6 @@
     <td>🟢EASY</td>
     <td>String, Stack</td>
   </tr>
-
   <tr>
     <td>14</td> 
     <td>
@@ -133,7 +122,6 @@
     <td>🟠MEDIUM</td>
     <td>String, Stack</td>
   </tr>
-
   <tr>
     <td>15</td> 
     <td>
@@ -144,7 +132,6 @@
     <td>🟠MEDIUM</td>
     <td>String, Stack</td>
   </tr>
-
   <tr>
     <td>16</td> 
     <td>
@@ -155,7 +142,6 @@
     <td>🟠MEDIUM</td>
     <td>Array, Stack</td>
   </tr>
-
   <tr>
     <td>17</td> 
     <td>
@@ -166,7 +152,6 @@
     <td>🟠MEDIUM</td>
     <td>String, Stack</td>
   </tr>
-
   <tr>
     <td>18</td> 
     <td>
@@ -177,7 +162,6 @@
     <td>🟠MEDIUM</td>
     <td>String, Stack, Greedy</td>
   </tr>
-
   <tr>
     <td>19</td> 
     <td>
@@ -188,7 +172,6 @@
     <td>🔴HARD</td>
     <td>Array, Stack, Hashing</td>
   </tr>
-
   <tr>
     <td>20</td> 
     <td>
@@ -199,7 +182,6 @@
     <td>🟠MEDIUM</td>
     <td>Array, Greedy</td>
   </tr>
-
   <tr>
     <td>21</td> 
     <td>
@@ -210,7 +192,6 @@
     <td>🟠MEDIUM</td>
     <td>String, Hash-Table, Greedy</td>
   </tr>
-
   <tr>
     <td>22</td> 
     <td>
@@ -221,7 +202,6 @@
     <td>🟠MEDIUM</td>
     <td>String, Greedy</td>
   </tr>
-
   <tr>
     <td>23</td> 
     <td>
@@ -232,7 +212,6 @@
     <td>🟠MEDIUM</td>
     <td>String, Greedy</td>
   </tr>
-
   <tr>
     <td>24</td> 
     <td>
@@ -243,7 +222,6 @@
     <td>🟠MEDIUM</td>
     <td>Array, Two-Pointer, Greedy, Sorting</td>
   </tr>
-
   <tr>
     <td>25</td> 
     <td>
@@ -254,7 +232,6 @@
     <td>🟠MEDIUM</td>
     <td>Array, Greedy, Sorting</td>
   </tr>
-
   <tr>
     <td>26</td> 
     <td>
@@ -265,7 +242,6 @@
     <td>🟠MEDIUM</td>
     <td>Array, Binary-Search</td>
   </tr>
-
   <tr>
     <td>27</td> 
     <td>
@@ -276,7 +252,6 @@
     <td>🟢EASY</td>
     <td>Matrix, Binary-Search, Sorting</td>
   </tr>
-
   <tr>
     <td>28</td> 
     <td>
@@ -287,7 +262,6 @@
     <td>🟠MEDIUM</td>
     <td>Matrix, Binary-Search</td>
   </tr>
-
   <tr>
     <td>29</td> 
     <td>
@@ -298,7 +272,6 @@
     <td>🟠MEDIUM</td>
     <td>Array, Two-Pointer</td>
   </tr>
-
   <tr>
     <td>30</td> 
     <td>
@@ -309,7 +282,6 @@
     <td>🟠MEDIUM</td>
     <td>Matrix, Binary-Search</td>
   </tr>
-
   <tr>
     <td>31</td> 
     <td>
@@ -321,5 +293,4 @@
     <td>Array, Greedy, Binary-Search</td>
   </tr>
 </table>
-
 </details>
