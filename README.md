@@ -5,7 +5,7 @@
 |   January | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  |
 |  February | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  |
 |     March | ❌  | ❌  | ❌  | ❌  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  |
-|     April |
+|     April | ✅  |
 |       May |
 |      June |
 |      July |
@@ -291,6 +291,24 @@
     </td> 
     <td>🔴HARD</td>
     <td>Array, Greedy, Binary-Search</td>
+  </tr>
+</table>
+</details>
+
+<details><summary>March 2022</summary>
+<table style="margin-left: 3rem">
+  <tr>
+    <th>Date</th> <th>Name</th> <th>Difficulty</th> <th>Tags</th>
+  </tr>
+  <tr>
+    <td>01</td>
+    <td>
+      <a href="https://leetcode.com/problems/reverse-string/">
+        Reverse String
+      </a>
+    </td>
+    <td>🟢EASY</td>
+    <td>String, Two-Pointer</td>
   </tr>
 </table>
 </details>
