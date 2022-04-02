@@ -310,5 +310,15 @@
     <td>🟢EASY</td>
     <td>String, Two-Pointer</td>
   </tr>
+  <tr>
+    <td>02</td>
+    <td>
+      <a href="https://leetcode.com/problems/valid-palindrome-ii//">
+        Valid Palindrome II
+      </a>
+    </td>
+    <td>🟢EASY</td>
+    <td>String, Two-Pointer</td>
+  </tr>
 </table>
 </details>
