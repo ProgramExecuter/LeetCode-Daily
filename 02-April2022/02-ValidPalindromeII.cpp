@@ -3,14 +3,40 @@
 
 class Solution {
 public:
+    bool isPalin(string s, int st, int en) {
+        while(st < en) {
+            if(s[st] != s[en])      // Chars mismatch, not a palindrome
+                return false;
+            ++st;       --en;
+        }
+        
+        return true;        // String is palindrome
+    }
     bool validPalindrome(string s) {
-        for(int i = 0, j = s.size() - 1; i < j; i++, j--)
-            if (s[i] != s[j]) {
-                int i1 = i, j1 = j - 1, i2 = i + 1, j2 = j;
-                while (i1 < j1 && s[i1] == s[j1]) {i1++; j1--;};
-                while (i2 < j2 && s[i2] == s[j2]) {i2++; j2--;};
-                return i1 >= j1 || i2 >= j2;
+        int n = s.size();
+        bool flag = true;
+        
+        if(n <= 2)  return true;
+        
+        int st = 0, en = n-1;
+        
+        while(st < en) {
+            if(s[st] != s[en]) {
+                // If remaining string becomes palindrome after removing "s[st]"
+                bool remStart = isPalin(s, st+1, en);
+                
+                // If remaining string becomes palindrome after removing "s[st]"
+                bool remEnd   = isPalin(s, st, en-1);
+                
+                if(remStart  ||  remEnd)        // If any of it is true, then return TRUE
+                    return true;
+                else
+                    return false;
             }
+            ++st;
+            --en;
+        }
+        
         return true;
     }
 };
