@@ -321,7 +321,7 @@
     <td>String, Two-Pointer</td>
   </tr>
   <tr>
-    <td>02</td>
+    <td>03</td>
     <td>
       <a href="https://leetcode.com/problems/next-permutation/">
         Next Permutation
@@ -329,6 +329,16 @@
     </td>
     <td>🟠MEDIUM</td>
     <td>Array, Two-Pointer</td>
+  </tr>
+  <tr>
+    <td>04</td>
+    <td>
+      <a href="https://leetcode.com/problems/swapping-nodes-in-a-linked-list/">
+        Swapping Nodes In a Linked List
+      </a>
+    </td>
+    <td>🟠MEDIUM</td>
+    <td>Linked List, Two-Pointer</td>
   </tr>
 </table>
 </details>
