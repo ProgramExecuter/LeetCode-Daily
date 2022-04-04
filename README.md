@@ -338,7 +338,7 @@
       </a>
     </td>
     <td>🟠MEDIUM</td>
-    <td>Linked List, Two-Pointer</td>
+    <td>Linked-List, Two-Pointer</td>
   </tr>
 </table>
 </details>
