@@ -340,5 +340,15 @@
     <td>🟠MEDIUM</td>
     <td>Linked-List, Two-Pointer</td>
   </tr>
+  <tr>
+    <td>05</td>
+    <td>
+      <a href="https://leetcode.com/problems/container-with-most-water/">
+        Container With Most Water
+      </a>
+    </td>
+    <td>🟠MEDIUM</td>
+    <td>Array, Two-Pointer, Greedy</td>
+  </tr>
 </table>
 </details>
