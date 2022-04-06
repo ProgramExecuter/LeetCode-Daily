@@ -5,7 +5,7 @@
 |   January | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  |
 |  February | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  |
 |     March | ❌  | ❌  | ❌  | ❌  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  |
-|     April | ✅  | ✅  | ✅  | ✅  | ✅  |
+|     April | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  |
 |       May |
 |      June |
 |      July |
@@ -349,6 +349,16 @@
     </td>
     <td>🟠MEDIUM</td>
     <td>Array, Two-Pointer, Greedy</td>
+  </tr>
+  <tr>
+    <td>06</td>
+    <td>
+      <a href="https://leetcode.com/problems/3sum-with-multiplicity/">
+        3 Sum With Multiplicity
+      </a>
+    </td>
+    <td>🟠MEDIUM</td>
+    <td>Array, Two-Pointer, Sorting, Hash-Table</td>
   </tr>
 </table>
 </details>
