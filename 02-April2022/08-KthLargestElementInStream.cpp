@@ -8,7 +8,7 @@ public:
     int size;
     
     KthLargest(int k, vector<int>& nums) {
-        size=k;
+        size = k;
         for(int i=0; i<nums.size(); i++) {
             pq.push(nums[i]);
             if(pq.size()>k) {
