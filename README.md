@@ -3,7 +3,7 @@
 |   January | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  |
 |  February | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  |
 |     March | ❌  | ❌  | ❌  | ❌  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  |
-|     April | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  |
+|     April | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  |
 |       May |
 |      June |
 |      July |
@@ -429,7 +429,7 @@
     <td>Matrix</td>
   </tr>
   <tr>
-    <td>13</td>
+    <td>14</td>
     <td>
       <a href="https://leetcode.com/problems/search-in-a-binary-search-tree/">
         Search In A Binary Search Tree
@@ -437,6 +437,16 @@
     </td>
     <td>🟢EASY</td>
     <td>BST</td>
+  </tr>
+  <tr>
+    <td>15</td>
+    <td>
+      <a href="https://leetcode.com/problems/trim-a-binary-search-tree/">
+        Trim a Binary Search Tree
+      </a>
+    </td>
+    <td>🟠MEDIUM</td>
+    <td>BST, DFS</td>
   </tr>
 </table>
 </details>
