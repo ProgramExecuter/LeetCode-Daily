@@ -465,7 +465,7 @@
         Increasing Order Search Tree
       </a>
     </td>
-    <td>🟠MEDIUM</td>
+    <td>🟢EASY</td>
     <td>BST, DFS</td>
   </tr>
 </table>
