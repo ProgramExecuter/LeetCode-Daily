@@ -3,7 +3,7 @@
 |   January | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  |
 |  February | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  |
 |     March | ❌  | ❌  | ❌  | ❌  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  |
-|     April | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  |
+|     April | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  |
 |       May |
 |      June |
 |      July |
@@ -478,7 +478,7 @@
     <td>🟠MEDIUM</td>
     <td>BST, DFS</td>
   </tr>
-<tr>
+  <tr>
     <td>19</td>
     <td>
       <a href="https://leetcode.com/problems/recover-binary-search-tree/">
@@ -487,6 +487,16 @@
     </td>
     <td>🟠MEDIUM</td>
     <td>BST, DFS</td>
+  </tr>
+  <tr>
+    <td>20</td>
+    <td>
+      <a href="https://leetcode.com/problems/binary-search-tree-iterator/">
+        Binary Search Tree Iterator
+      </a>
+    </td>
+    <td>🟠MEDIUM</td>
+    <td>BST, Stack</td>
   </tr>
 </table>
 </details>
