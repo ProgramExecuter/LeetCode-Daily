@@ -3,7 +3,7 @@
 |   January | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  |
 |  February | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  |
 |     March | ❌  | ❌  | ❌  | ❌  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  |
-|     April | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  |
+|     April | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  |✅
 |       May |
 |      June |
 |      July |
@@ -508,7 +508,7 @@
     <td>🟢EASY</td>
     <td>Hash-Function, Hash-Table, Design</td>
   </tr>
-<tr>
+  <tr>
     <td>22</td>
     <td>
       <a href="https://leetcode.com/problems/design-hashmap/">
@@ -517,6 +517,16 @@
     </td>
     <td>🟢EASY</td>
     <td>Hash-Function, Hash-Table, Design</td>
+  </tr>
+  <tr>
+    <td>23</td>
+    <td>
+      <a href="https://leetcode.com/problems/encode-and-decode-tinyurl/">
+        Encode and Decode TinyURL
+      </a>
+    </td>
+    <td>🟠MEDIUM</td>
+    <td>String, Hashing, Hash-Table, Design</td>
   </tr>
 </table>
 </details>
