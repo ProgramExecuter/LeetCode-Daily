@@ -3,7 +3,7 @@
 |   January | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  |
 |  February | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  |
 |     March | ❌  | ❌  | ❌  | ❌  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  |
-|     April | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  |
+|     April | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  |
 |       May |
 |      June |
 |      July |
@@ -557,6 +557,36 @@
     </td>
     <td>🟠MEDIUM</td>
     <td>Array, Union-Find, Minimum Spanning Tree</td>
+  </tr>
+  <tr>
+    <td>27</td>
+    <td>
+      <a href="https://leetcode.com/problems/smallest-string-with-swaps/">
+        Smallest String With Swaps
+      </a>
+    </td>
+    <td>🟠MEDIUM</td>
+    <td>String, Union-Find, DFS, BFS</td>
+  </tr>
+  <tr>
+    <td>28</td>
+    <td>
+      <a href="https://leetcode.com/problems/path-with-minimum-effort/">
+        Path With Minimum Effort
+      </a>
+    </td>
+    <td>🟠MEDIUM</td>
+    <td>Array, Union-Find, BFS, DFS, Binary-Search, Heap</td>
+  </tr>
+  <tr>
+    <td>29</td>
+    <td>
+      <a href="https://leetcode.com/problems/is-graph-bipartite/">
+        Is Graph Bipartite?
+      </a>
+    </td>
+    <td>🟠MEDIUM</td>
+    <td>Graph, Union-Find, BFS, DFS</td>
   </tr>
 </table>
 </details>
