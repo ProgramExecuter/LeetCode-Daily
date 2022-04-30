@@ -588,5 +588,15 @@
     <td>🟠MEDIUM</td>
     <td>Graph, Union-Find, BFS, DFS</td>
   </tr>
+  <tr>
+    <td>30</td>
+    <td>
+      <a href="https://leetcode.com/problems/evaluate-division/">
+        Evaluate Division
+      </a>
+    </td>
+    <td>🟠MEDIUM</td>
+    <td>Array, Graph, Union-Find, BFS, DFS</td>
+  </tr>
 </table>
 </details>
