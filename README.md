@@ -4,7 +4,7 @@
 |  February | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  |
 |     March | ❌  | ❌  | ❌  | ❌  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  |
 |     April | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  |
-|       May |
+|       May | ✅  |
 |      June |
 |      July |
 |    August |
@@ -597,6 +597,21 @@
     </td>
     <td>🟠MEDIUM</td>
     <td>Array, Graph, Union-Find, BFS, DFS</td>
+  </tr>
+</table>
+</details>
+
+<details><summary>May 2022</summary>
+<table style="margin-left: 3rem">
+  <tr>
+    <td>01</td>
+    <td>
+      <a href="https://leetcode.com/problems/backspace-string-compare/">
+        Backspace String Compare
+      </a>
+    </td>
+    <td>🟢EASY</td>
+    <td>String, Stack, Two-Pointer</td>
   </tr>
 </table>
 </details>
