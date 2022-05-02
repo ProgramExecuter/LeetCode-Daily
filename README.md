@@ -604,6 +604,9 @@
 <details><summary>May 2022</summary>
 <table style="margin-left: 3rem">
   <tr>
+    <th>Date</th> <th>Name</th> <th>Difficulty</th> <th>Tags</th>
+  </tr>
+  <tr>
     <td>01</td>
     <td>
       <a href="https://leetcode.com/problems/backspace-string-compare/">
