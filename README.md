@@ -4,7 +4,7 @@
 |  February | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  |
 |     March | ❌  | ❌  | ❌  | ❌  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  |
 |     April | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  |
-|       May | ✅  | ✅  |
+|       May | ✅  | ✅  | ✅  |
 |      June |
 |      July |
 |    August |
@@ -625,6 +625,16 @@
     </td>
     <td>🟢EASY</td>
     <td>Array, Two-Pointer</td>
+  </tr>
+  <tr>
+    <td>03</td>
+    <td>
+      <a href="https://leetcode.com/problems/shortest-unsorted-continuous-subarray/">
+        Shortest Unsorted Continuous Subarray
+      </a>
+    </td>
+    <td>🟠MEDIUM</td>
+    <td>Array, Two-Pointer, Stack</td>
   </tr>
 </table>
 </details>
