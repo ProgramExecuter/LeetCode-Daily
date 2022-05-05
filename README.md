@@ -4,7 +4,7 @@
 |  February | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  |
 |     March | ❌  | ❌  | ❌  | ❌  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  |
 |     April | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  |
-|       May | ✅  | ✅  | ✅  |
+|       May | ✅  | ✅  | ✅  | ✅  | ✅  |
 |      June |
 |      July |
 |    August |
@@ -635,6 +635,26 @@
     </td>
     <td>🟠MEDIUM</td>
     <td>Array, Two-Pointer, Stack</td>
+  </tr>
+  <tr>
+    <td>04</td>
+    <td>
+      <a href="https://leetcode.com/problems/max-number-of-k-sum-pairs/">
+        Maximum Number of K-Sum Pairs
+      </a>
+    </td>
+    <td>🟠MEDIUM</td>
+    <td>Array, Two-Pointer, Sorting, Hash-Table</td>
+  </tr>
+  <tr>
+    <td>05</td>
+    <td>
+      <a href="https://leetcode.com/problems/implement-stack-using-queues/">
+        Implement Stack Using Queues
+      </a>
+    </td>
+    <td>🟢EASY</td>
+    <td>Stack, Queue, Design</td>
   </tr>
 </table>
 </details>
