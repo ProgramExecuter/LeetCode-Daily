@@ -4,7 +4,7 @@
 |  February | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  |
 |     March | ❌  | ❌  | ❌  | ❌  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  |
 |     April | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  |
-|       May | ✅  | ✅  | ✅  | ✅  | ✅  |
+|       May | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  |
 |      June |
 |      July |
 |    August |
@@ -655,6 +655,16 @@
     </td>
     <td>🟢EASY</td>
     <td>Stack, Queue, Design</td>
+  </tr>
+  <tr>
+    <td>06</td>
+    <td>
+      <a href="https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii/">
+        Remove All Adjacent Duplicates In String II
+      </a>
+    </td>
+    <td>🟠MEDIUM</td>
+    <td>String, Stack</td>
   </tr>
 </table>
 </details>
