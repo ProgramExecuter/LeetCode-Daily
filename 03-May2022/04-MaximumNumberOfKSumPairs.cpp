@@ -8,21 +8,21 @@
 class Solution {
 public:
     int maxOperations(vector<int>& nums, int k) {
-        sort(nums.begin(), nums.end());     // Sort the array
+        sort(nums.begin(), nums.end());                 // Sort the array
         
         // Apply two-pointer approach
         int fr = 0, ba = nums.size()-1, res = 0;
         
         while(fr < ba) {
             if(nums[fr] + nums[ba]  ==  k) {
-                ++res;              // Add it to result
-                ++fr;   --ba;       // Move 'front' and 'back'
+                ++res;                                  // Add it to result
+                ++fr;   --ba;                           // Move 'front' and 'back'
             }
             else if(nums[fr] + nums[ba]  <  k) {
-                ++fr;               // Move 'front', so that we can increase the sum
+                ++fr;                                   // Move 'front', so that we can increase the sum
             }
             else {
-                --ba;               // Move 'back', so that we can decrease the sum
+                --ba;                                   // Move 'back', so that we can decrease the sum
             }
         }
         
