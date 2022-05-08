@@ -13,9 +13,9 @@ public:
         int waterStored = (j - i) * min( height[i], height[j] );
         
         while(i < n   &&  j < n  &&  i < j) {
-            if(height[i] < height[j])   // Move 'i'
+            if(height[i] < height[j])       // Move 'i'
                 ++i;
-            else                        // Move 'j'
+            else                            // Move 'j'
                 --j;
             
             int tmp = (j - i) * min(height[i], height[j]);
