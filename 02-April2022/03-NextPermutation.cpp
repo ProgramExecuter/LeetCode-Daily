@@ -14,9 +14,8 @@ public:
             }
         }
         
-        if(pos < 0) {
+        if(pos < 0)
             goto xy;
-        }
         
         // Find and replace the 'pos' element with
         // element just greater than it from right side of 'pos'
