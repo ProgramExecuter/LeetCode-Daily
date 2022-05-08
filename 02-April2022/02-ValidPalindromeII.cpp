@@ -5,12 +5,12 @@ class Solution {
 public:
     bool isPalin(string s, int st, int en) {
         while(st < en) {
-            if(s[st] != s[en])      // Chars mismatch, not a palindrome
+            if(s[st] != s[en])                      // Chars mismatch, not a palindrome
                 return false;
             ++st;       --en;
         }
         
-        return true;        // String is palindrome
+        return true;                                // String is palindrome
     }
     bool validPalindrome(string s) {
         int n = s.size();
