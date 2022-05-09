@@ -41,6 +41,8 @@ public:
 };
 
 
+
+
 ///////////////////////
 ///   Solution 2   ///
 /////////////////////
@@ -52,7 +54,7 @@ public:
 
 class NestedIterator {
 public:
-    stack<NestedInteger> st;
+    stack<NestedInteger> st;                                    // Used to store the integers and list(which are destructured to integers)
     
     NestedIterator(vector<NestedInteger> &nestedList) {
         if (nestedList.empty())   return;

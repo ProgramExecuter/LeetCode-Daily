@@ -6,7 +6,7 @@ public:
     int lastStoneWeight(vector<int>& stones) {
         priority_queue<int> pq;
         
-        for(int ele : stones)   // Push all stones in priority queue
+        for(int ele : stones)               // Push all stones in priority queue
             pq.push(ele);
         
         int ans = 0;
@@ -15,7 +15,7 @@ public:
             int first = pq.top();
             pq.pop();
             
-            if(pq.empty()) {    // If there's only one stone left, it's the result
+            if(pq.empty()) {                // If there's only one stone left, it's the result
                 ans = first;
                 break;
             }
@@ -25,7 +25,7 @@ public:
             
             int rem = first - second;
             
-            if(rem > 0)             // If a stone remains after smashing, then put it in 'pq'
+            if(rem > 0)                     // If a stone remains after smashing, then put it in 'pq'
                 pq.push(rem);
         }
         

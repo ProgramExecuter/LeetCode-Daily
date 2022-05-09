@@ -14,7 +14,8 @@ public:
             for(int j=i; j<=100; ++j) {
                 int k = target-i-j;
                 
-                if(k < 0  ||  k > 100)  continue;
+                if(k < 0  ||  k > 100)
+                    continue;
                 
                 // All elements are same
                 // thus by combination  nC3  =  n*(n-1)*(n-2)/6
