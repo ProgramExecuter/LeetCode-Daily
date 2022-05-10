@@ -1,3 +1,6 @@
+// Time Complexity - O(~9!)
+// Space Complexity - O(N)
+
 class Solution {
 public:
     void util(int &k, int n, vector<int> &curr, vector<vector<int>> &res) {
