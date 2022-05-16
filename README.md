@@ -764,7 +764,7 @@
       </a>
     </td>
     <td>🟠MEDIUM</td>
-    <td>BFS, Matrix</td>
+    <td>Graph, BFS, Matrix</td>
   </tr>
 </table>
 </details>
