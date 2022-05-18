@@ -776,5 +776,15 @@
     <td>🟠MEDIUM</td>
     <td>Tree, DFS, BFS</td>
   </tr>
+  <tr>
+    <td>18</td>
+    <td>
+      <a href="https://leetcode.com/problems/critical-connections-in-a-network/">
+        Critical Connections In a Network
+      </a>
+    </td>
+    <td>🟠MEDIUM</td>
+    <td>Graph, DFS</td>
+  </tr>
 </table>
 </details>
