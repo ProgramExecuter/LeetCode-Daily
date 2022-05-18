@@ -783,7 +783,7 @@
         Critical Connections In a Network
       </a>
     </td>
-    <td>🟠MEDIUM</td>
+    <td>🔴HARD</td>
     <td>Graph, DFS</td>
   </tr>
 </table>
